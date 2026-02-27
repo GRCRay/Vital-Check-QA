@@ -11,3 +11,11 @@ Regression Testing: Rigorous testing of core manual input features during the de
 Data Integrity Validation: Ensuring that physiological data is accurately stored and retrieved across different device types.
 
 User Acceptance Testing (UAT): Focusing on the specific UI/UX needs of users aged 65+, prioritizing high-contrast visuals and simplified navigation.
+
+## 📂 Repository Structure
+- `docs/`
+  - `Regression_Suite.md`       # Comprehensive baseline testing for AI integration
+  - `Bug_Report_Template.md`    # Standardized format for defect logging
+- `test-data/`
+  - `Sample_Input_Validation.csv` # Data sets used for boundary value analysis
+- `README.md`                   # Project overview and QA methodology
