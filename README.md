@@ -17,5 +17,5 @@ User Acceptance Testing (UAT): Focusing on the specific UI/UX needs of users age
   * **[Regression Suite](/Repository_Structure/docs/Regression_Suite.md)**       # Comprehensive baseline testing for AI integration
   * **[Bug Report](Repository_Structure/docs/Bug_Report_Template.md)**    # Standardized format for defect logging
 - `test-data/`
-  * **[Boundary Analysis Vitals](Repository_Structure/test-data/Boundary_Analysis_Vitals.md)** # Data sets used for boundary value analysis
+  * **[Boundary Data Tables](Repository_Structure/test-data/Boundary_Data_Tables.md)** # Data sets used for boundary value analysis
 - `README.md`                   # Project overview and QA methodology
