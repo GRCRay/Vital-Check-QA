@@ -18,4 +18,5 @@ User Acceptance Testing (UAT): Focusing on the specific UI/UX needs of users age
   * **[Bug Report](Repository_Structure/docs/Bug_Report_Template.md)**    # Standardized format for defect logging
 - `test-data/`
   * **[Boundary Data Tables](Repository_Structure/test-data/Boundary_Data_Tables.md)** # Data sets used for boundary value analysis
+  * **[AI_Voice_Scenarios](Repository_Strucuture/test-data/AI_Voice_Scenarios.md)
 - `README.md`                   # Project overview and QA methodology
