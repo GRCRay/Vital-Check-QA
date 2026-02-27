@@ -13,7 +13,7 @@
 [Provide a concise summary of the bug here.]
 
 ### Steps to Reproduce
-1. Open the Senior Health Tracker app.
+1. Open the Vital Check app.
 2. Navigate to the 'Blood Pressure' entry screen.
 3. Use the 'Voice Input' button to say "120 over 80."
 4. Observe the data field once the processing icon disappears.
