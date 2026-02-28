@@ -8,7 +8,7 @@ This application is designed to empower senior citizens by simplifying health an
 ## 🚀 Quick Navigation
 * 📝 **[Regression Suite](/Repository_Structure/docs/Regression_Suite.md)** # Comprehensive baseline testing for AI integration
 * 📊 **[Bug Report](Repository_Structure/docs/Bug_Report_Template.md)** # Standardized format for defect logging
-* 🔄 **[Regression Suite](./docs/Regression_Suite.md)** - Full system validation for AI features
+* 🔄 **[Boundary Data Tables](Repository_Structure/test-data/Boundary_Data_Tables.md)** # Data sets used for boundary value analysis
 * 
 ### QA Methodologies Implemented:
 Regression Testing: Rigorous testing of core manual input features during the deployment of the AI/LLM voice-command module.
