@@ -5,6 +5,11 @@ Status: In Development (LLM Integration Phase)
 
 This application is designed to empower senior citizens by simplifying health and nutrition tracking. Built with a focus on accessibility and data integrity, the project serves as a primary environment for implementing advanced Quality Assurance and Compliance methodologies.
 
+## 🚀 Quick Navigation
+* 📝 **[Regression Suite](/Repository_Structure/docs/Regression_Suite.md)** # Comprehensive baseline testing for AI integration
+* 📊 **[Bug Report](Repository_Structure/docs/Bug_Report_Template.md)** # Standardized format for defect logging
+* 🔄 **[Regression Suite](./docs/Regression_Suite.md)** - Full system validation for AI features
+* 
 ### QA Methodologies Implemented:
 Regression Testing: Rigorous testing of core manual input features during the deployment of the AI/LLM voice-command module.
 
